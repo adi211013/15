@@ -1,0 +1,11 @@
+C:\Users\adi21\source\repos\155\155\bin\Debug\155.exe.config
+C:\Users\adi21\source\repos\155\155\bin\Debug\155.exe
+C:\Users\adi21\source\repos\155\155\bin\Debug\155.pdb
+C:\Users\adi21\source\repos\155\155\obj\Debug\155.csproj.AssemblyReference.cache
+C:\Users\adi21\source\repos\155\155\obj\Debug\155.csproj.SuggestedBindingRedirects.cache
+C:\Users\adi21\source\repos\155\155\obj\Debug\_155.Form1.resources
+C:\Users\adi21\source\repos\155\155\obj\Debug\_155.Properties.Resources.resources
+C:\Users\adi21\source\repos\155\155\obj\Debug\155.csproj.GenerateResource.cache
+C:\Users\adi21\source\repos\155\155\obj\Debug\155.csproj.CoreCompileInputs.cache
+C:\Users\adi21\source\repos\155\155\obj\Debug\155.exe
+C:\Users\adi21\source\repos\155\155\obj\Debug\155.pdb
